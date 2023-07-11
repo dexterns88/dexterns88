@@ -45,18 +45,6 @@
     <img alt="javascript" src="https://img.shields.io/badge/javascript-b2f7ef?style=flat&logo=javascript&logoColor=333533">
 </a>
 
-<a href="https://html.com/html5/" target="_blank">
-    <img alt="html5" src="https://img.shields.io/badge/html5-b2f7ef?style=flat&logo=html5&logoColor=333533">
-</a>
-
-<a href="https://css-tricks.com/" target="_blank">
-    <img alt="css" src="https://img.shields.io/badge/css-b2f7ef?style=flat&logo=css3&logoColor=333533">
-</a>
-
-<a href="https://redux.js.org/" target="_blank">
-    <img alt="redux" src="https://img.shields.io/badge/redux-b2f7ef?style=flat&logo=redux&logoColor=333533">
-</a>
-
 <br />
 
 #### DAILY DRIVERS:
@@ -68,11 +56,6 @@
 <a href="https://www.jetbrains.com/webstorm" target="_blank">
     <img alt="webstorm" src="https://img.shields.io/badge/ws-WebStorm-b2f7ef?style=flat&logo=webstorm&logoColor=fff">
 </a>
-
-<a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
-<a href="#" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/slack-7bdff2?style=flat&logo=slack&logoColor=333533"></a>
-<a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533"></a>
-
 ---
 
 [comment]: <> (tokyonight)
